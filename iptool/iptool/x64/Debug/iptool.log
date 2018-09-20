@@ -1,0 +1,9 @@
+﻿  utility.cpp
+  image.cpp
+e:\users\brandon\desktop\the folder\school\school spring 2018\image processing\project4-blank\iptool\iptool\iptools\image\image.cpp(246): warning C4101: 'j': unreferenced local variable
+  iptool.cpp
+e:\users\brandon\desktop\the folder\school\school spring 2018\image processing\project4-blank\iptool\iptool\iptool.cpp(132): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+e:\users\brandon\desktop\the folder\school\school spring 2018\image processing\project4-blank\iptool\iptool\iptools\image\image.cpp(159): warning C4715: 'image::getChannel': not all control paths return a value
+  iptool.vcxproj -> E:\Users\Brandon\Desktop\The Folder\SCHOOL\School SPRING 2018\Image Processing\Project4-Blank\iptool\x64\Debug\iptool.exe
+  iptool.vcxproj -> E:\Users\Brandon\Desktop\The Folder\SCHOOL\School SPRING 2018\Image Processing\Project4-Blank\iptool\x64\Debug\iptool.pdb (Full PDB)
