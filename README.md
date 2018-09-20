@@ -74,13 +74,12 @@ Entering 0 for number of ROIs will perform operation on whole image
 
 ### PARAMETERS 
 
-The first parameter of the parameters.txt is the number of operations (lines).
-There are four parameters for each operation (line):
-1. the input file name;
-2. the output file name;
-3. opencv / FUNCTIONS (without OpenCV): skip to 5 for parameters
-4. the name of the function with OpenCV. Check FUNCTIONS (with OpenCV).
-5. parameters (Check FUNCTIONS (with OpenCV) for parameters)
+Lines 3 to n will depend on the number of ROIs you want to manipulate
+
+1. <Number of images [int]>
+2. <inFile [string]> <outFile [string]> <'opencv' (optional)> <function [string]> <number of ROIs [int]>
+
+3. <ROI x begin [int]> <ROI y begin [int]> <ROI x length in px [int]> <ROI y length in px [int]>
 
 ### EXAMPLE:
 ---
